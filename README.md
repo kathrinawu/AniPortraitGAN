@@ -89,8 +89,11 @@ The generated videos is controlled by the keyframes of expression, pose and came
 SHHQ-HS is built upon the SHHQ [2] dataset. We provide processed head-shoulder images at the resolusion of 512x512, and some labels used in our paper (e.g., camera pose, SMPL joint pose and shape parameters, 3DMM identity and expression coefficients). Cropped face images are also provided.
 
 ### Download Instructions
-1. To obtain SHHQ-HS, you need first apply for SHHQ dataset, following [their instructions](https://github.com/stylegan-human/StyleGAN-Human/blob/main/docs/Dataset.md#download-instructions).
-2. After completing the application for the SHHQ dataset, please forward the application email thread to Yue wu(wu.kathrina@gmail.com), with the email subject as "Application for SHHQ-HS Dataset". We will verify your request and contact you with the dataset link.
+The link is 
+https://hkustconnect-my.sharepoint.com/:u:/g/personal/ywudg_connect_ust_hk/EUWd2whh-shIgwMGqCy2n-gBjMrMUoD5-5-Zf8v0RCRImA?e=eFBbkd
+
+Password: SHHQ-HS
+
 
 ## Citation
 Please cite the our paper if this work helps your research:
